@@ -1,5 +1,5 @@
 ---
-Logo: %theme_url%/img/pico-white.svg
+Logo: img/pico-white.svg
 Tagline: Picobook Making the web easy.
 Contact:
     - title: Youtube
